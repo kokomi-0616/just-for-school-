@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
+<meta charset="utf-8" http-equiv="Refresh" content="5;url=http://localhost/123456/">
 <title>6</title>
 </head>
 
@@ -13,16 +13,20 @@
 <center><i>
 		take me back back home
 	</i></center>
+	<img src = "line1.jpg" width = 100% height = 10>
 	<center><p1>i wish you can be the <b><font size = "+4" color="#3000F8" >ggboy</font></b></p1></center>
 	<center><h3><pre>
 what  fox  say
 	</pre></h3>
-	<h4><blockqute>
+	<h4><blockqute><marquee direction = right behavior = alternate scrollamount = 15 bgcolor="#99EFC5" width = 100% height = 200%><marquee direction = "down" >move</marquee></marquee>
 	ni ni ni ni ni ni ni ni	
 	</blockqute></h4>
+		<img src ="123.jpg" width = 10% vspace = 1>
+		i tell you the coffee is so great 
+		<br>
 	&lt;br&gt; &amp; &quot;gg&quot;
-		
 <br>
+				<marquee direction = down scrollamount=15><center>dig</center></marquee>
 	<p>
 		i dont car
 	</p></center>
